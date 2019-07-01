@@ -1,3 +1,5 @@
+[![Planetinha](https://i.ibb.co/pxKsdHm/planetinha-1.png "Planetinha")](https://i.ibb.co/pxKsdHm/planetinha-1.png "Planetinha")
+
 #Por que seu jogo deve ser acessível?
 Este documento possui como objetivo guardar os documentos utilizados e desenvolvidos para a oficina "Por que seu jogo deve ser acessível", realizada em Curitiba, dia 20/06/2019.
 
